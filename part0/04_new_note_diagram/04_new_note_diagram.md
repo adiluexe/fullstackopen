@@ -34,5 +34,5 @@ sequenceDiagram
     Note right of browser: The browser executes the callback function that renders the notes including the new one
 ```
 
-![alt text](screenshots/image.png)
-![alt text](screenshots/image-1.png)
+![alt text](image.png)
+![alt text](image-1.png)
